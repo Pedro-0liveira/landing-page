@@ -1,0 +1,17 @@
+.header{
+    background-color: cornflowerblue;
+    padding: 0 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex: 1;
+}
+
+.links{
+    display: flex;
+    gap: 15px;
+}
+
+a{
+    text-decoration: none;
+}
