@@ -1,5 +1,5 @@
 # landing-page
 
-Repo for TOP landing page project. Image sources can be viewed here:
+Repo for TOP landing page project. Image sources can be viewed here or in images-sources within the images folder:
 
-Orange cat with black and white jacket:https://unsplash.com/photos/orange-tabby-cat-in-black-and-white-jacket-yJozLVBxNA0
+Sleeping orange kitten: https://pixabay.com/photos/cat-kitten-cute-sleeping-asleep-1941089/
