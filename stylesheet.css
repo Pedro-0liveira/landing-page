@@ -46,6 +46,28 @@ body{
     max-width: 200px;
 }
 
+.middle-section{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.information-header{
+    font-size: 36px;
+    color: #1F2947;
+}
+
+.portrait1{
+    max-width: 200px;
+    max-height: 200px;
+}
+
+.picture1{
+    max-width: 200px;
+    max-height: 200pxs;
+}
+
 .header-text{
     font-size: 48px;
     font-weight: bold;
