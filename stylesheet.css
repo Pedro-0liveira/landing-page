@@ -51,21 +51,33 @@ body{
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
+    
 }
 
 .information-header{
     font-size: 36px;
     color: #1F2947;
+    
 }
 
-.portrait1{
+.portraits{
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
+    align-items: center;
+}
+
+.portrait{
     max-width: 200px;
     max-height: 200px;
 }
 
-.picture1{
+.portrait-picture{
     max-width: 200px;
-    max-height: 200pxs;
+    max-height: 220px;
+    width: 200px;
+    height: 220px;
+    border-radius: 10%;
 }
 
 .header-text{
