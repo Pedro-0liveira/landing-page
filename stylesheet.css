@@ -111,6 +111,14 @@ body{
     font-size: 50px;
 }
 
+.footer{
+    height: 70px;
+    background-color: #1F2947;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
 
 .links{
     display: flex;
