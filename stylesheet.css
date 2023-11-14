@@ -111,6 +111,21 @@ body{
     font-size: 50px;
 }
 
+.bottom-section{
+    margin-top: 150px;
+    max-height: 80px;
+    /*width: 200px;
+    max-width: 200px;*/
+    display: flex;
+    align-items: center;
+    background-color: #3882F6;
+}
+
+.sign-up-text{
+    color: white;
+    width: 100%;
+}
+
 .footer{
     height: 70px;
     background-color: #1F2947;
