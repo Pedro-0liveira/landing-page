@@ -88,6 +88,7 @@ body{
     background-color: #E5E7EB;
     font-size: 36px;
     font-style: italic;
+    margin-bottom: 90px;
 }
 
 .quote{
@@ -112,16 +113,30 @@ body{
 }
 
 .bottom-section{
-    margin-top: 150px;
     display: flex;
     align-items: center;
     justify-content: center;
+    margin-bottom: 90px;
+}
+
+.bottom-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
     background-color: #3882F6;
+    border-radius: 2%;
+    border: 2px, solid white;
+    max-width: 90%;
+    max-height: 60%;
+    width: 100%;
 }
 
 .sign-up-text{
     display: flex;
     justify-content: center;
+    flex-shrink: 1;
+    max-width: 100px;
     color: white;
     width: 100%;
 }
