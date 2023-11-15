@@ -113,15 +113,15 @@ body{
 
 .bottom-section{
     margin-top: 150px;
-    max-height: 80px;
-    /*width: 200px;
-    max-width: 200px;*/
     display: flex;
     align-items: center;
+    justify-content: center;
     background-color: #3882F6;
 }
 
 .sign-up-text{
+    display: flex;
+    justify-content: center;
     color: white;
     width: 100%;
 }
