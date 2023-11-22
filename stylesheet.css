@@ -122,23 +122,34 @@ body{
 .bottom-container{
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
     background-color: #3882F6;
-    border-radius: 2%;
-    border: 2px, solid white;
-    max-width: 90%;
+    border-radius: 5px;
+    max-width: 80%;
     max-height: 60%;
     width: 100%;
+
+    
 }
 
 .sign-up-text{
     display: flex;
     justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
     flex-shrink: 1;
-    max-width: 100px;
+    max-width: 400px;
     color: white;
     width: 100%;
+}
+
+.last-button{
+    background-color: #3882F6;
+    border: 1px solid;
+    border-radius: 20px;
+    border-color: white;
+    color: white;
 }
 
 .footer{
@@ -158,4 +169,13 @@ body{
 a{
     text-decoration: none;
     color: white;
+}
+
+h3{
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+p{
+    margin-top: 5px;
 }
