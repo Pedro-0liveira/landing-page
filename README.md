@@ -1,6 +1,7 @@
 # landing-page
 
-Repo for TOP landing page project. Image sources can be viewed here or trough the webpage images themselves:
+Repo for TOP landing page project. A very simple page made with HTML and CSS. Very barebones and rough around the edges.
+Image sources can be viewed here or trough the webpage images themselves:
 
 Sleeping orange kitten: https://pixabay.com/photos/cat-kitten-cute-sleeping-asleep-1941089/
 
